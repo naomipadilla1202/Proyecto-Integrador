@@ -18,7 +18,7 @@ int main(){
     compra1.pagar(); 
     compra1.continuar(); 
     cout << "\n Compra 2" << endl; 
-    Compra compra2{"Sophia Valencia", "Mexico", "8239837", "sophiaF.val@gmail.com", 'Z', 3};  
+    Compra compra2{"Sophia Valencia", "Mexico", "8239837", "sophiaF.val@gmail.com", 'Z', 3,Paquete(723,12.44,0.400,Ubicacion())};  
     cout << compra2.imprimirCom(); 
     compra2.pagar(); 
     compra2.continuar(); 
