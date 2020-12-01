@@ -1,5 +1,5 @@
 //Clase Compra del proyecto integrador: Sistema de logística y organización en el proceso de entrega \
-Autores: Sophia F. Valencia Bautista A01745091 y Naomi Padilla Mora A01745914 \
+Autores: Sophia Fernanda Valencia Bautista A01745091 y Naomi Padilla Mora A01745914 \
 Fecha de creación: 23 de noviembre, 2020
 #ifndef COMPRA_C
 #define COMPRA_C
